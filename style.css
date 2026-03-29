@@ -1,0 +1,203 @@
+.desktop {
+  background-color: #ffffff;
+  width: 100%;
+  min-width: 1458px;
+  min-height: 1086px;
+  position: relative;
+}
+
+.desktop .text-wrapper {
+  position: absolute;
+  top: 51px;
+  left: 153px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #585050;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .div {
+  position: absolute;
+  top: 51px;
+  left: 891px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #453030;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-2 {
+  position: absolute;
+  top: 51px;
+  left: 626px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #453030;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-3 {
+  position: absolute;
+  top: 51px;
+  left: 769px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #453030;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-4 {
+  position: absolute;
+  top: 51px;
+  left: 318px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #453030;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-5 {
+  position: absolute;
+  top: 51px;
+  left: 472px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #453030;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .rectangle {
+  position: absolute;
+  top: 44px;
+  left: 1084px;
+  width: 356px;
+  height: 38px;
+  background-color: #d9d9d9;
+}
+
+.desktop .search {
+  position: absolute;
+  top: 46px;
+  left: 1411px;
+  width: 32px;
+  height: 34px;
+}
+
+.desktop .img {
+  position: absolute;
+  top: 107px;
+  left: 25px;
+  width: 1408px;
+  height: 372px;
+  object-fit: cover;
+}
+
+.desktop .p {
+  position: absolute;
+  top: 528px;
+  left: 413px;
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #592424;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-6 {
+  left: 80px;
+  position: absolute;
+  top: 990px;
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #6a3030;
+  font-size: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-7 {
+  left: 517px;
+  position: absolute;
+  top: 990px;
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #6a3030;
+  font-size: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-8 {
+  left: 1018px;
+  position: absolute;
+  top: 990px;
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #6a3030;
+  font-size: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .giy-puma {
+  position: absolute;
+  top: 581px;
+  left: 42px;
+  width: 430px;
+  height: 430px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.desktop .sneaker {
+  position: absolute;
+  top: 606px;
+  left: 549px;
+  width: 398px;
+  height: 405px;
+  aspect-ratio: 0.98;
+  object-fit: cover;
+}
+
+.desktop .adidas {
+  position: absolute;
+  top: 581px;
+  left: 944px;
+  width: 514px;
+  height: 321px;
+  aspect-ratio: 1.6;
+  object-fit: cover;
+}
+
+.desktop .logo-bn-giy {
+  position: absolute;
+  top: 14px;
+  left: 34px;
+  width: 75px;
+  height: 75px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
